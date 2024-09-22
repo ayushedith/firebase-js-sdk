@@ -86,7 +86,7 @@ Promise.resolve(userToken || cachedToken)
       cwd: path.resolve(__dirname, '../config/functions')
     });
 
-    // Deploy database rules
+    // Deploy DB cinfigurations
     await firebaseTools.deploy({
       project,
       token,
