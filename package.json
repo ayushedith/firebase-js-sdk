@@ -1,6 +1,6 @@
 {
   "name": "firebase-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.",
   "description": "Monorepo for the Firebase JavaScript SDK",
   "private": true,
   "author": "Firebase <firebase-support@google.com> (https://firebase.google.com/)",
